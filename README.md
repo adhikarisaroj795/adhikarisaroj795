@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Saroj and I'm a javascript developer, from <img src="" width="17" /><br> <b>Dhulabari, Jhapa</b>.</p>
+<p align="left">My name is Saroj and I'm a javascript developer, from 🇳🇵🇳🇵 <img src="https://w7.pngwing.com/pngs/694/36/png-transparent-flag-of-nepal-nepal-s-angle-flag-triangle-thumbnail.png" width="17" /><br> <b>Dhulabari, Jhapa</b>.</p>
 
 ###
 
